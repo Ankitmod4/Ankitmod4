@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building scalable web applications using the MERN stack.<br>Open-source projects and innovative web solutions.<br>React Native to expand my skills into mobile app development.<br>Anything related to JavaScript, React, Node.js, or MongoDB<br> I love solving complex coding challenges and contributing to the developer community.
+Building scalable web applications using the MERN stack.<br>Open-source projects and innovative web solutions.<br>Anything related to JavaScript, React, Node.js, or MongoDB<br> I love solving complex coding challenges and contributing to the developer community.
 
 
 ## 🌐 Socials:
